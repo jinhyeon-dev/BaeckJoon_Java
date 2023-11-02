@@ -1,3 +1,5 @@
+package OneDimensionalArray;
+
 import java.util.Scanner;
 
 public class MinMax {
